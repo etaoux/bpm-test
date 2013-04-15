@@ -1,8 +1,19 @@
 {
-	"name": "etao.ux.x1_abc",
-	"version": "0.0.2",
-	"dependencies": {
-		"etao.ux.x1_part1" : "latest",
-		"etao.ux.x1_part2" : "0.0.4"
-	}
+  "name": "etao.ux.x1_abc",
+  "version": "0.0.3",
+  "dependencies": {
+    "etao.ux.x1_part1": "latest",
+    "etao.ux.x1_part2": "0.0.4"
+  },
+  "description": "ERROR: No README.md file found!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "opm": {
+    "build-file" : "build.json"
+  },
+  "repository": "",
+  "author": "",
+  "license": "BSD"
 }
