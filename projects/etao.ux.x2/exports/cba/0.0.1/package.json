@@ -1,0 +1,7 @@
+{
+	"name": "etao.ux.x2_cba",
+	"version": "0.0.1",
+	"dependencies": {
+		"etao.ux.x1_abc": "latest"
+	}
+}
